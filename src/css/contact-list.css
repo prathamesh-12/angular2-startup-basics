@@ -1,0 +1,1 @@
+ul{list-style-type:none;margin:15px 0;padding:0}li{cursor:pointer;-webkit-transition:padding .3s;transition:padding .3s}li:hover{padding-left:8px;border-left:3px solid blue}.selectedContactStyle,li:hover{color:blue}.contact-name{cursor:pointer}

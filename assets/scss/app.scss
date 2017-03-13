@@ -1,0 +1,19 @@
+body {
+  padding: 20px;
+  font-family: "Roboto", Arial, sans-serif;
+  font-size: 16px;
+}
+
+header nav a {
+  text-decoration: none;
+  color: blue;
+  font-weight: bold;
+}
+
+header nav a:hover, header nav a:active {
+  color: #41abf2;
+}
+.router-link-active {
+  color: #41abf2;
+}
+

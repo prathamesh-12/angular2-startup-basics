@@ -1,0 +1,20 @@
+ul {
+    list-style-type: none;
+    margin: 15px 0;
+    padding: 0;
+}
+li {
+    cursor: pointer;
+    transition: padding 0.3s;
+}
+li:hover {
+    padding-left: 8px;
+    color: blue;
+    border-left: 3px solid blue;
+}
+.selectedContactStyle{
+  color: blue;
+}
+.contact-name {
+  cursor: pointer;
+}
